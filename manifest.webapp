@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "name": "Hello World",
+  "description": "Hello World for Firefox OS",
+  "launch_path": "/index.html",
+  "icons": {
+    "60": "/images/60x60.png",
+    "128": "/images/128x128.png"
+    "512": "/images/512x512.png",
+  },
+  "developer": {
+    "name": "Christophe Villeneuve",
+    "url": "http://www.hello-design.fr"
+  }
+}
